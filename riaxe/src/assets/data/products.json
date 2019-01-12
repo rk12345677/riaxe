@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "item1",
+      "price": 10,
+      "image": "",
+      "description": "This is description"
+    },
+    {
+      "id": "002",
+      "name": "item2",
+      "price": 20,
+      "image": "",
+      "description": "This is description"
+    },
+    {
+      "id": "003",
+      "name": "item3",
+      "price": 11999,
+      "image": "",
+      "description": "This is description"
+    },
+    {
+      "id": "004",
+      "name": " item4",
+      "price": 24000,
+      "image": "",
+      "description": "This is description"
+    },
+    {
+      "id": "005",
+      "name": "item5",
+      "price": 41000,
+      "image": "",
+      "description": "This is description"
+    },
+    {
+      "id": "006",
+      "name": "item6",
+      "price": 15400,
+      "image": "",
+      "description": "This is description"
+    }
+  ]
+}
